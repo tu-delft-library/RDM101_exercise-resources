@@ -34,7 +34,7 @@ $ pip install -r requirements.txt>
 
 ##Copyright
 
-<Per TU Delft Software Guidelines, first check if the software can be released as Open Source (see decision tree: https://edu.nl/uhrxh).>
+<Per TU Delft Software Guidelines, first check if the software can be released as Open Source (see decision tree: [https://edu.nl/uhrxh](https://edu.nl/hjv3b)).>
 
 <If it qualifies and meets TU Delft’s Research Software Policy, TU Delft will transfer the copyright to the authors.>
 
