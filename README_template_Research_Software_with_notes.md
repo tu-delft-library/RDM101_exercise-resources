@@ -70,8 +70,3 @@ This software is distributed under a [Name of the license] license.
 
 
 
-## Exercise Resources
-
-![Exercise Image](https://raw.githubusercontent.com/tu-delft-library/RDM101_exercise-resources/refs/heads/main/decision-oss.png)
-
-[Download image](https://raw.githubusercontent.com/tu-delft-library/RDM101_exercise-resources/refs/heads/main/decision-oss.png)
